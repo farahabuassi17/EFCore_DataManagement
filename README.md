@@ -1,8 +1,8 @@
-### EFCore Data Management
+# EFCore Data Management
 
 A simple .NET Console Application for managing categories and products using Entity Framework Core and SQLite.
 
-### Features
+## Features
 
 * Categories and Products
 * One-to-Many Relationship
@@ -10,7 +10,7 @@ A simple .NET Console Application for managing categories and products using Ent
 * Eager Loading using `Include()`
 * JSON Serialization using `System.Text.Json`
 
-### Technologies
+## Technologies
 
 * C#
 * .NET 9
